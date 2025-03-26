@@ -79,7 +79,7 @@ class Date implements Comparable<Date> {
     public void printDate() {
         String[] months = {"January", "February", "March", "April", "May", "June",
                 "July", "August", "September", "October", "November", "December"};
-        System.out.println(months[month - 1] + " " + day + ", " + year);  // Fixed array index
+        System.out.println(months[month - 1] + " " + day + ", " + year);  
     }
 
     // Implement Comparable interface for sorting
