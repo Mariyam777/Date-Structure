@@ -1,5 +1,5 @@
 # Date Structure Program
-A Java program that implements a date management system with various date operations including validation, day of week calculation, date difference calculation and sorting.
+My Java program implements a date management system with various date operations including validation, day of week calculation, date difference calculation and sorting.
 
 # Features 
  - Date validation (handles leap years and month lengths correctly)
