@@ -11,16 +11,11 @@ A Java program that implements a date management system with various date operat
 # Program Options
 When running the program, you'll see a menu with these options:
 
-Add new date 
- - Enter a day, month, and year to create and store a new date
-Get day of the week
- - View what day of the week a stored date falls on
-Calculate difference
- - Find the number of days between two stored dates
-Print all dates
- - Display all stored dates in sorted order
-Exit
- - Quit the program
+- Add new date : Enter a day, month, and year to create and store a new date
+- Get day of the week : View what day of the week a stored date falls on
+- Calculate difference : Find the number of days between two stored dates
+- Print all dates :  Display all stored dates in sorted order
+- Exit : Quit the program
 
 # Implementation Details
 Key Components:
