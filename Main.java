@@ -75,7 +75,7 @@ class Date implements Comparable<Date> {
         return days;
     }
 
-    // Print date in readable format - FIXED VERSION
+    // Print date in readable format 
     public void printDate() {
         String[] months = {"January", "February", "March", "April", "May", "June",
                 "July", "August", "September", "October", "November", "December"};
