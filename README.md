@@ -8,7 +8,7 @@ A Java program that implements a date management system with various date operat
  - Date sorting functionality
  - Interactive console menu system
 
-#Program Options
+##Program Options
 When running the program, you'll see a menu with these options:
 
 Add new date - Enter a day, month, and year to create and store a new date
@@ -17,13 +17,13 @@ Calculate difference - Find the number of days between two stored dates
 Print all dates - Display all stored dates in sorted order
 Exit - Quit the program
 
-#Implementation Details
+##Implementation Details
 Key Components:
 
--Date Class: Handles all date-related operations including:
-  *Validation (isValidDate())
-  *Day of week calculation (getDayOfWeek())
-  *Date difference calculation (calculateDifference())
-  *Natural ordering (Comparable interface implementation)
+-DATE CLASS: Handles all date-related operations including:
+  -Validation (isValidDate())
+  -Day of week calculation (getDayOfWeek())
+  -Date difference calculation (calculateDifference())
+  -Natural ordering (Comparable interface implementation)
 
--Main Class: Provides the user interface and manages the collection of dates
+-MAIN CLASS: Provides the user interface and manages the collection of dates
